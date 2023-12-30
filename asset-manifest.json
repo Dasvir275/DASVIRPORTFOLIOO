@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DASVIRPORTFOLIOO/static/css/main.bf538fe7.css",
+    "main.js": "/DASVIRPORTFOLIOO/static/js/main.876d5fed.js",
+    "static/media/HeroImage.jpg": "/DASVIRPORTFOLIOO/static/media/HeroImage.ba287b2610dad58e755d.jpg",
+    "index.html": "/DASVIRPORTFOLIOO/index.html",
+    "main.bf538fe7.css.map": "/DASVIRPORTFOLIOO/static/css/main.bf538fe7.css.map",
+    "main.876d5fed.js.map": "/DASVIRPORTFOLIOO/static/js/main.876d5fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.876d5fed.js"
+  ]
+}
